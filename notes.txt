@@ -1,0 +1,49 @@
+Prerequiste Softwares & installation downloads
+	ASP .net & IIS 7 - https://msdn.microsoft.com/en-us/library/bb763178.aspx
+	Visual Studio - Visual Studio 2012 and Other Products - https://www.visualstudio.com/vs/older-downloads/
+DB Part:
+	Sql version - Microsoft® SQL Server® 2012 Evaluation - https://www.microsoft.com/en-in/download/details.aspx?id=29066
+
+Action items:
+	Need to get an overview of this application? what does this do and its components
+	Testing this application.
+
+Deployment plan/ support in deploying the application.
+	Setup a Webserver with 4 GB of RAM and get started with code deployment.
+	Need assistance in spinning up the site.
+	Once extra RAM is available, then we can set up a DB server.
+
+
+
+Use case 3 - in progress
+
+Migration pattern - Refactor
+Target - AWS
+Application type - ELECTRONIC DOCUMENT MANAGEMENT   SYSTEM / Custom + Database
+Migration tool - cloud native - DMS (Database Migration service)
+
+
+Planned kickoff date - Today
+Planned completion date - 18 May 2018 (Tentative)
+
+Challenges -
+	Using server native tools like Server Migration Service.
+	Need to upgrade existing HW for LAB setup. (RAM upgrade).
+	Set up application - Need support from application SME.
+	Software licenses - Using evaluation copies.
+	Network requirements.
+
+
+1. What's the tools we are using for this POC?  RDS, Cloud endure 
+2. Design, plan, migrate and post implementation? Identify, deploy infra, migrate the DB to RDS and test. More refactor to happen.
+3. Steps that are followed at each stage? 
+ High level overview of the application setup
+	1. Set up the infrastructure.
+	2. onboard the application.
+	3. Migrate the DB to RDS.
+	4. Establish the connection via RDS to application.
+	5. Test the application.
+4. how this POC will help for real time projects? This will help customers who want to use an Hybrid based model and reduce the cost in terms of database licensing and storage costs.  
+
+ 
+https://msdn.microsoft.com/vs2008/products/cc268305.aspx
