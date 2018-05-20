@@ -1,8 +1,9 @@
+Adding header
 Prerequiste Softwares & installation downloads
 	ASP .net & IIS 7 - https://msdn.microsoft.com/en-us/library/bb763178.aspx
 	Visual Studio - Visual Studio 2012 and Other Products - https://www.visualstudio.com/vs/older-downloads/
 DB Part:
-	Sql version - Microsoft® SQL Server® 2012 Evaluation - https://www.microsoft.com/en-in/download/details.aspx?id=29066
+	Sql version - MicrosoftÂ® SQL ServerÂ® 2012 Evaluation - https://www.microsoft.com/en-in/download/details.aspx?id=29066
 
 Action items:
 	Need to get an overview of this application? what does this do and its components
